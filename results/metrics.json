@@ -1,0 +1,18 @@
+{
+    "category_word": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+    },
+    "category_word_char": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+    },
+    "priority_word": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+    },
+    "priority_word_char": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+    }
+}

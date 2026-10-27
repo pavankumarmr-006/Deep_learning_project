@@ -1,0 +1,6 @@
+,account,billing,delivery,returns,technical
+account,18,0,0,0,0
+billing,0,18,0,0,0
+delivery,0,0,18,0,0
+returns,0,0,0,18,0
+technical,0,0,0,0,18

@@ -1,0 +1,601 @@
+text,category,priority
+i was charged twice for my order. support reference billing-low-1.,billing,low
+my invoice amount is incorrect. support reference billing-low-2.,billing,low
+i need a refund for my payment. support reference billing-low-3.,billing,low
+my payment failed during checkout. support reference billing-low-4.,billing,low
+i was charged twice for my order. support reference billing-low-5.,billing,low
+my invoice amount is incorrect. support reference billing-low-6.,billing,low
+i need a refund for my payment. support reference billing-low-7.,billing,low
+my payment failed during checkout. support reference billing-low-8.,billing,low
+i was charged twice for my order. support reference billing-low-9.,billing,low
+my invoice amount is incorrect. support reference billing-low-10.,billing,low
+i need a refund for my payment. support reference billing-low-11.,billing,low
+my payment failed during checkout. support reference billing-low-12.,billing,low
+i was charged twice for my order. support reference billing-low-13.,billing,low
+my invoice amount is incorrect. support reference billing-low-14.,billing,low
+i need a refund for my payment. support reference billing-low-15.,billing,low
+my payment failed during checkout. support reference billing-low-16.,billing,low
+i was charged twice for my order. support reference billing-low-17.,billing,low
+my invoice amount is incorrect. support reference billing-low-18.,billing,low
+i need a refund for my payment. support reference billing-low-19.,billing,low
+my payment failed during checkout. support reference billing-low-20.,billing,low
+i was charged twice for my order. support reference billing-low-21.,billing,low
+my invoice amount is incorrect. support reference billing-low-22.,billing,low
+i need a refund for my payment. support reference billing-low-23.,billing,low
+my payment failed during checkout. support reference billing-low-24.,billing,low
+i was charged twice for my order. support reference billing-low-25.,billing,low
+my invoice amount is incorrect. support reference billing-low-26.,billing,low
+i need a refund for my payment. support reference billing-low-27.,billing,low
+my payment failed during checkout. support reference billing-low-28.,billing,low
+i was charged twice for my order. support reference billing-low-29.,billing,low
+my invoice amount is incorrect. support reference billing-low-30.,billing,low
+i need a refund for my payment. support reference billing-low-31.,billing,low
+my payment failed during checkout. support reference billing-low-32.,billing,low
+i was charged twice for my order. support reference billing-low-33.,billing,low
+my invoice amount is incorrect. support reference billing-low-34.,billing,low
+i need a refund for my payment. support reference billing-low-35.,billing,low
+my payment failed during checkout. support reference billing-low-36.,billing,low
+i was charged twice for my order. support reference billing-low-37.,billing,low
+my invoice amount is incorrect. support reference billing-low-38.,billing,low
+i need a refund for my payment. support reference billing-low-39.,billing,low
+my payment failed during checkout. support reference billing-low-40.,billing,low
+i was charged twice for my order. support reference billing-medium-1.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-2.,billing,medium
+i need a refund for my payment. support reference billing-medium-3.,billing,medium
+my payment failed during checkout. support reference billing-medium-4.,billing,medium
+i was charged twice for my order. support reference billing-medium-5.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-6.,billing,medium
+i need a refund for my payment. support reference billing-medium-7.,billing,medium
+my payment failed during checkout. support reference billing-medium-8.,billing,medium
+i was charged twice for my order. support reference billing-medium-9.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-10.,billing,medium
+i need a refund for my payment. support reference billing-medium-11.,billing,medium
+my payment failed during checkout. support reference billing-medium-12.,billing,medium
+i was charged twice for my order. support reference billing-medium-13.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-14.,billing,medium
+i need a refund for my payment. support reference billing-medium-15.,billing,medium
+my payment failed during checkout. support reference billing-medium-16.,billing,medium
+i was charged twice for my order. support reference billing-medium-17.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-18.,billing,medium
+i need a refund for my payment. support reference billing-medium-19.,billing,medium
+my payment failed during checkout. support reference billing-medium-20.,billing,medium
+i was charged twice for my order. support reference billing-medium-21.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-22.,billing,medium
+i need a refund for my payment. support reference billing-medium-23.,billing,medium
+my payment failed during checkout. support reference billing-medium-24.,billing,medium
+i was charged twice for my order. support reference billing-medium-25.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-26.,billing,medium
+i need a refund for my payment. support reference billing-medium-27.,billing,medium
+my payment failed during checkout. support reference billing-medium-28.,billing,medium
+i was charged twice for my order. support reference billing-medium-29.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-30.,billing,medium
+i need a refund for my payment. support reference billing-medium-31.,billing,medium
+my payment failed during checkout. support reference billing-medium-32.,billing,medium
+i was charged twice for my order. support reference billing-medium-33.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-34.,billing,medium
+i need a refund for my payment. support reference billing-medium-35.,billing,medium
+my payment failed during checkout. support reference billing-medium-36.,billing,medium
+i was charged twice for my order. support reference billing-medium-37.,billing,medium
+my invoice amount is incorrect. support reference billing-medium-38.,billing,medium
+i need a refund for my payment. support reference billing-medium-39.,billing,medium
+my payment failed during checkout. support reference billing-medium-40.,billing,medium
+i was charged twice for my order. support reference billing-high-1.,billing,high
+my invoice amount is incorrect. support reference billing-high-2.,billing,high
+i need a refund for my payment. support reference billing-high-3.,billing,high
+my payment failed during checkout. support reference billing-high-4.,billing,high
+i was charged twice for my order. support reference billing-high-5.,billing,high
+my invoice amount is incorrect. support reference billing-high-6.,billing,high
+i need a refund for my payment. support reference billing-high-7.,billing,high
+my payment failed during checkout. support reference billing-high-8.,billing,high
+i was charged twice for my order. support reference billing-high-9.,billing,high
+my invoice amount is incorrect. support reference billing-high-10.,billing,high
+i need a refund for my payment. support reference billing-high-11.,billing,high
+my payment failed during checkout. support reference billing-high-12.,billing,high
+i was charged twice for my order. support reference billing-high-13.,billing,high
+my invoice amount is incorrect. support reference billing-high-14.,billing,high
+i need a refund for my payment. support reference billing-high-15.,billing,high
+my payment failed during checkout. support reference billing-high-16.,billing,high
+i was charged twice for my order. support reference billing-high-17.,billing,high
+my invoice amount is incorrect. support reference billing-high-18.,billing,high
+i need a refund for my payment. support reference billing-high-19.,billing,high
+my payment failed during checkout. support reference billing-high-20.,billing,high
+i was charged twice for my order. support reference billing-high-21.,billing,high
+my invoice amount is incorrect. support reference billing-high-22.,billing,high
+i need a refund for my payment. support reference billing-high-23.,billing,high
+my payment failed during checkout. support reference billing-high-24.,billing,high
+i was charged twice for my order. support reference billing-high-25.,billing,high
+my invoice amount is incorrect. support reference billing-high-26.,billing,high
+i need a refund for my payment. support reference billing-high-27.,billing,high
+my payment failed during checkout. support reference billing-high-28.,billing,high
+i was charged twice for my order. support reference billing-high-29.,billing,high
+my invoice amount is incorrect. support reference billing-high-30.,billing,high
+i need a refund for my payment. support reference billing-high-31.,billing,high
+my payment failed during checkout. support reference billing-high-32.,billing,high
+i was charged twice for my order. support reference billing-high-33.,billing,high
+my invoice amount is incorrect. support reference billing-high-34.,billing,high
+i need a refund for my payment. support reference billing-high-35.,billing,high
+my payment failed during checkout. support reference billing-high-36.,billing,high
+i was charged twice for my order. support reference billing-high-37.,billing,high
+my invoice amount is incorrect. support reference billing-high-38.,billing,high
+i need a refund for my payment. support reference billing-high-39.,billing,high
+my payment failed during checkout. support reference billing-high-40.,billing,high
+i cannot log in to my account. support reference account-low-1.,account,low
+please help me reset my password. support reference account-low-2.,account,low
+i want to update my account details. support reference account-low-3.,account,low
+my account has been locked. support reference account-low-4.,account,low
+i cannot log in to my account. support reference account-low-5.,account,low
+please help me reset my password. support reference account-low-6.,account,low
+i want to update my account details. support reference account-low-7.,account,low
+my account has been locked. support reference account-low-8.,account,low
+i cannot log in to my account. support reference account-low-9.,account,low
+please help me reset my password. support reference account-low-10.,account,low
+i want to update my account details. support reference account-low-11.,account,low
+my account has been locked. support reference account-low-12.,account,low
+i cannot log in to my account. support reference account-low-13.,account,low
+please help me reset my password. support reference account-low-14.,account,low
+i want to update my account details. support reference account-low-15.,account,low
+my account has been locked. support reference account-low-16.,account,low
+i cannot log in to my account. support reference account-low-17.,account,low
+please help me reset my password. support reference account-low-18.,account,low
+i want to update my account details. support reference account-low-19.,account,low
+my account has been locked. support reference account-low-20.,account,low
+i cannot log in to my account. support reference account-low-21.,account,low
+please help me reset my password. support reference account-low-22.,account,low
+i want to update my account details. support reference account-low-23.,account,low
+my account has been locked. support reference account-low-24.,account,low
+i cannot log in to my account. support reference account-low-25.,account,low
+please help me reset my password. support reference account-low-26.,account,low
+i want to update my account details. support reference account-low-27.,account,low
+my account has been locked. support reference account-low-28.,account,low
+i cannot log in to my account. support reference account-low-29.,account,low
+please help me reset my password. support reference account-low-30.,account,low
+i want to update my account details. support reference account-low-31.,account,low
+my account has been locked. support reference account-low-32.,account,low
+i cannot log in to my account. support reference account-low-33.,account,low
+please help me reset my password. support reference account-low-34.,account,low
+i want to update my account details. support reference account-low-35.,account,low
+my account has been locked. support reference account-low-36.,account,low
+i cannot log in to my account. support reference account-low-37.,account,low
+please help me reset my password. support reference account-low-38.,account,low
+i want to update my account details. support reference account-low-39.,account,low
+my account has been locked. support reference account-low-40.,account,low
+i cannot log in to my account. support reference account-medium-1.,account,medium
+please help me reset my password. support reference account-medium-2.,account,medium
+i want to update my account details. support reference account-medium-3.,account,medium
+my account has been locked. support reference account-medium-4.,account,medium
+i cannot log in to my account. support reference account-medium-5.,account,medium
+please help me reset my password. support reference account-medium-6.,account,medium
+i want to update my account details. support reference account-medium-7.,account,medium
+my account has been locked. support reference account-medium-8.,account,medium
+i cannot log in to my account. support reference account-medium-9.,account,medium
+please help me reset my password. support reference account-medium-10.,account,medium
+i want to update my account details. support reference account-medium-11.,account,medium
+my account has been locked. support reference account-medium-12.,account,medium
+i cannot log in to my account. support reference account-medium-13.,account,medium
+please help me reset my password. support reference account-medium-14.,account,medium
+i want to update my account details. support reference account-medium-15.,account,medium
+my account has been locked. support reference account-medium-16.,account,medium
+i cannot log in to my account. support reference account-medium-17.,account,medium
+please help me reset my password. support reference account-medium-18.,account,medium
+i want to update my account details. support reference account-medium-19.,account,medium
+my account has been locked. support reference account-medium-20.,account,medium
+i cannot log in to my account. support reference account-medium-21.,account,medium
+please help me reset my password. support reference account-medium-22.,account,medium
+i want to update my account details. support reference account-medium-23.,account,medium
+my account has been locked. support reference account-medium-24.,account,medium
+i cannot log in to my account. support reference account-medium-25.,account,medium
+please help me reset my password. support reference account-medium-26.,account,medium
+i want to update my account details. support reference account-medium-27.,account,medium
+my account has been locked. support reference account-medium-28.,account,medium
+i cannot log in to my account. support reference account-medium-29.,account,medium
+please help me reset my password. support reference account-medium-30.,account,medium
+i want to update my account details. support reference account-medium-31.,account,medium
+my account has been locked. support reference account-medium-32.,account,medium
+i cannot log in to my account. support reference account-medium-33.,account,medium
+please help me reset my password. support reference account-medium-34.,account,medium
+i want to update my account details. support reference account-medium-35.,account,medium
+my account has been locked. support reference account-medium-36.,account,medium
+i cannot log in to my account. support reference account-medium-37.,account,medium
+please help me reset my password. support reference account-medium-38.,account,medium
+i want to update my account details. support reference account-medium-39.,account,medium
+my account has been locked. support reference account-medium-40.,account,medium
+i cannot log in to my account. support reference account-high-1.,account,high
+please help me reset my password. support reference account-high-2.,account,high
+i want to update my account details. support reference account-high-3.,account,high
+my account has been locked. support reference account-high-4.,account,high
+i cannot log in to my account. support reference account-high-5.,account,high
+please help me reset my password. support reference account-high-6.,account,high
+i want to update my account details. support reference account-high-7.,account,high
+my account has been locked. support reference account-high-8.,account,high
+i cannot log in to my account. support reference account-high-9.,account,high
+please help me reset my password. support reference account-high-10.,account,high
+i want to update my account details. support reference account-high-11.,account,high
+my account has been locked. support reference account-high-12.,account,high
+i cannot log in to my account. support reference account-high-13.,account,high
+please help me reset my password. support reference account-high-14.,account,high
+i want to update my account details. support reference account-high-15.,account,high
+my account has been locked. support reference account-high-16.,account,high
+i cannot log in to my account. support reference account-high-17.,account,high
+please help me reset my password. support reference account-high-18.,account,high
+i want to update my account details. support reference account-high-19.,account,high
+my account has been locked. support reference account-high-20.,account,high
+i cannot log in to my account. support reference account-high-21.,account,high
+please help me reset my password. support reference account-high-22.,account,high
+i want to update my account details. support reference account-high-23.,account,high
+my account has been locked. support reference account-high-24.,account,high
+i cannot log in to my account. support reference account-high-25.,account,high
+please help me reset my password. support reference account-high-26.,account,high
+i want to update my account details. support reference account-high-27.,account,high
+my account has been locked. support reference account-high-28.,account,high
+i cannot log in to my account. support reference account-high-29.,account,high
+please help me reset my password. support reference account-high-30.,account,high
+i want to update my account details. support reference account-high-31.,account,high
+my account has been locked. support reference account-high-32.,account,high
+i cannot log in to my account. support reference account-high-33.,account,high
+please help me reset my password. support reference account-high-34.,account,high
+i want to update my account details. support reference account-high-35.,account,high
+my account has been locked. support reference account-high-36.,account,high
+i cannot log in to my account. support reference account-high-37.,account,high
+please help me reset my password. support reference account-high-38.,account,high
+i want to update my account details. support reference account-high-39.,account,high
+my account has been locked. support reference account-high-40.,account,high
+the application crashes when i open it. support reference technical-low-1.,technical,low
+the website is loading very slowly. support reference technical-low-2.,technical,low
+i get an error when using the app. support reference technical-low-3.,technical,low
+the latest update broke a feature. support reference technical-low-4.,technical,low
+the application crashes when i open it. support reference technical-low-5.,technical,low
+the website is loading very slowly. support reference technical-low-6.,technical,low
+i get an error when using the app. support reference technical-low-7.,technical,low
+the latest update broke a feature. support reference technical-low-8.,technical,low
+the application crashes when i open it. support reference technical-low-9.,technical,low
+the website is loading very slowly. support reference technical-low-10.,technical,low
+i get an error when using the app. support reference technical-low-11.,technical,low
+the latest update broke a feature. support reference technical-low-12.,technical,low
+the application crashes when i open it. support reference technical-low-13.,technical,low
+the website is loading very slowly. support reference technical-low-14.,technical,low
+i get an error when using the app. support reference technical-low-15.,technical,low
+the latest update broke a feature. support reference technical-low-16.,technical,low
+the application crashes when i open it. support reference technical-low-17.,technical,low
+the website is loading very slowly. support reference technical-low-18.,technical,low
+i get an error when using the app. support reference technical-low-19.,technical,low
+the latest update broke a feature. support reference technical-low-20.,technical,low
+the application crashes when i open it. support reference technical-low-21.,technical,low
+the website is loading very slowly. support reference technical-low-22.,technical,low
+i get an error when using the app. support reference technical-low-23.,technical,low
+the latest update broke a feature. support reference technical-low-24.,technical,low
+the application crashes when i open it. support reference technical-low-25.,technical,low
+the website is loading very slowly. support reference technical-low-26.,technical,low
+i get an error when using the app. support reference technical-low-27.,technical,low
+the latest update broke a feature. support reference technical-low-28.,technical,low
+the application crashes when i open it. support reference technical-low-29.,technical,low
+the website is loading very slowly. support reference technical-low-30.,technical,low
+i get an error when using the app. support reference technical-low-31.,technical,low
+the latest update broke a feature. support reference technical-low-32.,technical,low
+the application crashes when i open it. support reference technical-low-33.,technical,low
+the website is loading very slowly. support reference technical-low-34.,technical,low
+i get an error when using the app. support reference technical-low-35.,technical,low
+the latest update broke a feature. support reference technical-low-36.,technical,low
+the application crashes when i open it. support reference technical-low-37.,technical,low
+the website is loading very slowly. support reference technical-low-38.,technical,low
+i get an error when using the app. support reference technical-low-39.,technical,low
+the latest update broke a feature. support reference technical-low-40.,technical,low
+the application crashes when i open it. support reference technical-medium-1.,technical,medium
+the website is loading very slowly. support reference technical-medium-2.,technical,medium
+i get an error when using the app. support reference technical-medium-3.,technical,medium
+the latest update broke a feature. support reference technical-medium-4.,technical,medium
+the application crashes when i open it. support reference technical-medium-5.,technical,medium
+the website is loading very slowly. support reference technical-medium-6.,technical,medium
+i get an error when using the app. support reference technical-medium-7.,technical,medium
+the latest update broke a feature. support reference technical-medium-8.,technical,medium
+the application crashes when i open it. support reference technical-medium-9.,technical,medium
+the website is loading very slowly. support reference technical-medium-10.,technical,medium
+i get an error when using the app. support reference technical-medium-11.,technical,medium
+the latest update broke a feature. support reference technical-medium-12.,technical,medium
+the application crashes when i open it. support reference technical-medium-13.,technical,medium
+the website is loading very slowly. support reference technical-medium-14.,technical,medium
+i get an error when using the app. support reference technical-medium-15.,technical,medium
+the latest update broke a feature. support reference technical-medium-16.,technical,medium
+the application crashes when i open it. support reference technical-medium-17.,technical,medium
+the website is loading very slowly. support reference technical-medium-18.,technical,medium
+i get an error when using the app. support reference technical-medium-19.,technical,medium
+the latest update broke a feature. support reference technical-medium-20.,technical,medium
+the application crashes when i open it. support reference technical-medium-21.,technical,medium
+the website is loading very slowly. support reference technical-medium-22.,technical,medium
+i get an error when using the app. support reference technical-medium-23.,technical,medium
+the latest update broke a feature. support reference technical-medium-24.,technical,medium
+the application crashes when i open it. support reference technical-medium-25.,technical,medium
+the website is loading very slowly. support reference technical-medium-26.,technical,medium
+i get an error when using the app. support reference technical-medium-27.,technical,medium
+the latest update broke a feature. support reference technical-medium-28.,technical,medium
+the application crashes when i open it. support reference technical-medium-29.,technical,medium
+the website is loading very slowly. support reference technical-medium-30.,technical,medium
+i get an error when using the app. support reference technical-medium-31.,technical,medium
+the latest update broke a feature. support reference technical-medium-32.,technical,medium
+the application crashes when i open it. support reference technical-medium-33.,technical,medium
+the website is loading very slowly. support reference technical-medium-34.,technical,medium
+i get an error when using the app. support reference technical-medium-35.,technical,medium
+the latest update broke a feature. support reference technical-medium-36.,technical,medium
+the application crashes when i open it. support reference technical-medium-37.,technical,medium
+the website is loading very slowly. support reference technical-medium-38.,technical,medium
+i get an error when using the app. support reference technical-medium-39.,technical,medium
+the latest update broke a feature. support reference technical-medium-40.,technical,medium
+the application crashes when i open it. support reference technical-high-1.,technical,high
+the website is loading very slowly. support reference technical-high-2.,technical,high
+i get an error when using the app. support reference technical-high-3.,technical,high
+the latest update broke a feature. support reference technical-high-4.,technical,high
+the application crashes when i open it. support reference technical-high-5.,technical,high
+the website is loading very slowly. support reference technical-high-6.,technical,high
+i get an error when using the app. support reference technical-high-7.,technical,high
+the latest update broke a feature. support reference technical-high-8.,technical,high
+the application crashes when i open it. support reference technical-high-9.,technical,high
+the website is loading very slowly. support reference technical-high-10.,technical,high
+i get an error when using the app. support reference technical-high-11.,technical,high
+the latest update broke a feature. support reference technical-high-12.,technical,high
+the application crashes when i open it. support reference technical-high-13.,technical,high
+the website is loading very slowly. support reference technical-high-14.,technical,high
+i get an error when using the app. support reference technical-high-15.,technical,high
+the latest update broke a feature. support reference technical-high-16.,technical,high
+the application crashes when i open it. support reference technical-high-17.,technical,high
+the website is loading very slowly. support reference technical-high-18.,technical,high
+i get an error when using the app. support reference technical-high-19.,technical,high
+the latest update broke a feature. support reference technical-high-20.,technical,high
+the application crashes when i open it. support reference technical-high-21.,technical,high
+the website is loading very slowly. support reference technical-high-22.,technical,high
+i get an error when using the app. support reference technical-high-23.,technical,high
+the latest update broke a feature. support reference technical-high-24.,technical,high
+the application crashes when i open it. support reference technical-high-25.,technical,high
+the website is loading very slowly. support reference technical-high-26.,technical,high
+i get an error when using the app. support reference technical-high-27.,technical,high
+the latest update broke a feature. support reference technical-high-28.,technical,high
+the application crashes when i open it. support reference technical-high-29.,technical,high
+the website is loading very slowly. support reference technical-high-30.,technical,high
+i get an error when using the app. support reference technical-high-31.,technical,high
+the latest update broke a feature. support reference technical-high-32.,technical,high
+the application crashes when i open it. support reference technical-high-33.,technical,high
+the website is loading very slowly. support reference technical-high-34.,technical,high
+i get an error when using the app. support reference technical-high-35.,technical,high
+the latest update broke a feature. support reference technical-high-36.,technical,high
+the application crashes when i open it. support reference technical-high-37.,technical,high
+the website is loading very slowly. support reference technical-high-38.,technical,high
+i get an error when using the app. support reference technical-high-39.,technical,high
+the latest update broke a feature. support reference technical-high-40.,technical,high
+my package has not arrived. support reference delivery-low-1.,delivery,low
+my order is delayed. support reference delivery-low-2.,delivery,low
+the tracking page is not updating. support reference delivery-low-3.,delivery,low
+i received the wrong item. support reference delivery-low-4.,delivery,low
+my package has not arrived. support reference delivery-low-5.,delivery,low
+my order is delayed. support reference delivery-low-6.,delivery,low
+the tracking page is not updating. support reference delivery-low-7.,delivery,low
+i received the wrong item. support reference delivery-low-8.,delivery,low
+my package has not arrived. support reference delivery-low-9.,delivery,low
+my order is delayed. support reference delivery-low-10.,delivery,low
+the tracking page is not updating. support reference delivery-low-11.,delivery,low
+i received the wrong item. support reference delivery-low-12.,delivery,low
+my package has not arrived. support reference delivery-low-13.,delivery,low
+my order is delayed. support reference delivery-low-14.,delivery,low
+the tracking page is not updating. support reference delivery-low-15.,delivery,low
+i received the wrong item. support reference delivery-low-16.,delivery,low
+my package has not arrived. support reference delivery-low-17.,delivery,low
+my order is delayed. support reference delivery-low-18.,delivery,low
+the tracking page is not updating. support reference delivery-low-19.,delivery,low
+i received the wrong item. support reference delivery-low-20.,delivery,low
+my package has not arrived. support reference delivery-low-21.,delivery,low
+my order is delayed. support reference delivery-low-22.,delivery,low
+the tracking page is not updating. support reference delivery-low-23.,delivery,low
+i received the wrong item. support reference delivery-low-24.,delivery,low
+my package has not arrived. support reference delivery-low-25.,delivery,low
+my order is delayed. support reference delivery-low-26.,delivery,low
+the tracking page is not updating. support reference delivery-low-27.,delivery,low
+i received the wrong item. support reference delivery-low-28.,delivery,low
+my package has not arrived. support reference delivery-low-29.,delivery,low
+my order is delayed. support reference delivery-low-30.,delivery,low
+the tracking page is not updating. support reference delivery-low-31.,delivery,low
+i received the wrong item. support reference delivery-low-32.,delivery,low
+my package has not arrived. support reference delivery-low-33.,delivery,low
+my order is delayed. support reference delivery-low-34.,delivery,low
+the tracking page is not updating. support reference delivery-low-35.,delivery,low
+i received the wrong item. support reference delivery-low-36.,delivery,low
+my package has not arrived. support reference delivery-low-37.,delivery,low
+my order is delayed. support reference delivery-low-38.,delivery,low
+the tracking page is not updating. support reference delivery-low-39.,delivery,low
+i received the wrong item. support reference delivery-low-40.,delivery,low
+my package has not arrived. support reference delivery-medium-1.,delivery,medium
+my order is delayed. support reference delivery-medium-2.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-3.,delivery,medium
+i received the wrong item. support reference delivery-medium-4.,delivery,medium
+my package has not arrived. support reference delivery-medium-5.,delivery,medium
+my order is delayed. support reference delivery-medium-6.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-7.,delivery,medium
+i received the wrong item. support reference delivery-medium-8.,delivery,medium
+my package has not arrived. support reference delivery-medium-9.,delivery,medium
+my order is delayed. support reference delivery-medium-10.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-11.,delivery,medium
+i received the wrong item. support reference delivery-medium-12.,delivery,medium
+my package has not arrived. support reference delivery-medium-13.,delivery,medium
+my order is delayed. support reference delivery-medium-14.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-15.,delivery,medium
+i received the wrong item. support reference delivery-medium-16.,delivery,medium
+my package has not arrived. support reference delivery-medium-17.,delivery,medium
+my order is delayed. support reference delivery-medium-18.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-19.,delivery,medium
+i received the wrong item. support reference delivery-medium-20.,delivery,medium
+my package has not arrived. support reference delivery-medium-21.,delivery,medium
+my order is delayed. support reference delivery-medium-22.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-23.,delivery,medium
+i received the wrong item. support reference delivery-medium-24.,delivery,medium
+my package has not arrived. support reference delivery-medium-25.,delivery,medium
+my order is delayed. support reference delivery-medium-26.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-27.,delivery,medium
+i received the wrong item. support reference delivery-medium-28.,delivery,medium
+my package has not arrived. support reference delivery-medium-29.,delivery,medium
+my order is delayed. support reference delivery-medium-30.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-31.,delivery,medium
+i received the wrong item. support reference delivery-medium-32.,delivery,medium
+my package has not arrived. support reference delivery-medium-33.,delivery,medium
+my order is delayed. support reference delivery-medium-34.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-35.,delivery,medium
+i received the wrong item. support reference delivery-medium-36.,delivery,medium
+my package has not arrived. support reference delivery-medium-37.,delivery,medium
+my order is delayed. support reference delivery-medium-38.,delivery,medium
+the tracking page is not updating. support reference delivery-medium-39.,delivery,medium
+i received the wrong item. support reference delivery-medium-40.,delivery,medium
+my package has not arrived. support reference delivery-high-1.,delivery,high
+my order is delayed. support reference delivery-high-2.,delivery,high
+the tracking page is not updating. support reference delivery-high-3.,delivery,high
+i received the wrong item. support reference delivery-high-4.,delivery,high
+my package has not arrived. support reference delivery-high-5.,delivery,high
+my order is delayed. support reference delivery-high-6.,delivery,high
+the tracking page is not updating. support reference delivery-high-7.,delivery,high
+i received the wrong item. support reference delivery-high-8.,delivery,high
+my package has not arrived. support reference delivery-high-9.,delivery,high
+my order is delayed. support reference delivery-high-10.,delivery,high
+the tracking page is not updating. support reference delivery-high-11.,delivery,high
+i received the wrong item. support reference delivery-high-12.,delivery,high
+my package has not arrived. support reference delivery-high-13.,delivery,high
+my order is delayed. support reference delivery-high-14.,delivery,high
+the tracking page is not updating. support reference delivery-high-15.,delivery,high
+i received the wrong item. support reference delivery-high-16.,delivery,high
+my package has not arrived. support reference delivery-high-17.,delivery,high
+my order is delayed. support reference delivery-high-18.,delivery,high
+the tracking page is not updating. support reference delivery-high-19.,delivery,high
+i received the wrong item. support reference delivery-high-20.,delivery,high
+my package has not arrived. support reference delivery-high-21.,delivery,high
+my order is delayed. support reference delivery-high-22.,delivery,high
+the tracking page is not updating. support reference delivery-high-23.,delivery,high
+i received the wrong item. support reference delivery-high-24.,delivery,high
+my package has not arrived. support reference delivery-high-25.,delivery,high
+my order is delayed. support reference delivery-high-26.,delivery,high
+the tracking page is not updating. support reference delivery-high-27.,delivery,high
+i received the wrong item. support reference delivery-high-28.,delivery,high
+my package has not arrived. support reference delivery-high-29.,delivery,high
+my order is delayed. support reference delivery-high-30.,delivery,high
+the tracking page is not updating. support reference delivery-high-31.,delivery,high
+i received the wrong item. support reference delivery-high-32.,delivery,high
+my package has not arrived. support reference delivery-high-33.,delivery,high
+my order is delayed. support reference delivery-high-34.,delivery,high
+the tracking page is not updating. support reference delivery-high-35.,delivery,high
+i received the wrong item. support reference delivery-high-36.,delivery,high
+my package has not arrived. support reference delivery-high-37.,delivery,high
+my order is delayed. support reference delivery-high-38.,delivery,high
+the tracking page is not updating. support reference delivery-high-39.,delivery,high
+i received the wrong item. support reference delivery-high-40.,delivery,high
+i want to return my purchase. support reference returns-low-1.,returns,low
+how can i exchange this item. support reference returns-low-2.,returns,low
+my returned item has not been refunded. support reference returns-low-3.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-4.,returns,low
+i want to return my purchase. support reference returns-low-5.,returns,low
+how can i exchange this item. support reference returns-low-6.,returns,low
+my returned item has not been refunded. support reference returns-low-7.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-8.,returns,low
+i want to return my purchase. support reference returns-low-9.,returns,low
+how can i exchange this item. support reference returns-low-10.,returns,low
+my returned item has not been refunded. support reference returns-low-11.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-12.,returns,low
+i want to return my purchase. support reference returns-low-13.,returns,low
+how can i exchange this item. support reference returns-low-14.,returns,low
+my returned item has not been refunded. support reference returns-low-15.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-16.,returns,low
+i want to return my purchase. support reference returns-low-17.,returns,low
+how can i exchange this item. support reference returns-low-18.,returns,low
+my returned item has not been refunded. support reference returns-low-19.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-20.,returns,low
+i want to return my purchase. support reference returns-low-21.,returns,low
+how can i exchange this item. support reference returns-low-22.,returns,low
+my returned item has not been refunded. support reference returns-low-23.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-24.,returns,low
+i want to return my purchase. support reference returns-low-25.,returns,low
+how can i exchange this item. support reference returns-low-26.,returns,low
+my returned item has not been refunded. support reference returns-low-27.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-28.,returns,low
+i want to return my purchase. support reference returns-low-29.,returns,low
+how can i exchange this item. support reference returns-low-30.,returns,low
+my returned item has not been refunded. support reference returns-low-31.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-32.,returns,low
+i want to return my purchase. support reference returns-low-33.,returns,low
+how can i exchange this item. support reference returns-low-34.,returns,low
+my returned item has not been refunded. support reference returns-low-35.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-36.,returns,low
+i want to return my purchase. support reference returns-low-37.,returns,low
+how can i exchange this item. support reference returns-low-38.,returns,low
+my returned item has not been refunded. support reference returns-low-39.,returns,low
+the product arrived damaged and needs returning. support reference returns-low-40.,returns,low
+i want to return my purchase. support reference returns-medium-1.,returns,medium
+how can i exchange this item. support reference returns-medium-2.,returns,medium
+my returned item has not been refunded. support reference returns-medium-3.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-4.,returns,medium
+i want to return my purchase. support reference returns-medium-5.,returns,medium
+how can i exchange this item. support reference returns-medium-6.,returns,medium
+my returned item has not been refunded. support reference returns-medium-7.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-8.,returns,medium
+i want to return my purchase. support reference returns-medium-9.,returns,medium
+how can i exchange this item. support reference returns-medium-10.,returns,medium
+my returned item has not been refunded. support reference returns-medium-11.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-12.,returns,medium
+i want to return my purchase. support reference returns-medium-13.,returns,medium
+how can i exchange this item. support reference returns-medium-14.,returns,medium
+my returned item has not been refunded. support reference returns-medium-15.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-16.,returns,medium
+i want to return my purchase. support reference returns-medium-17.,returns,medium
+how can i exchange this item. support reference returns-medium-18.,returns,medium
+my returned item has not been refunded. support reference returns-medium-19.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-20.,returns,medium
+i want to return my purchase. support reference returns-medium-21.,returns,medium
+how can i exchange this item. support reference returns-medium-22.,returns,medium
+my returned item has not been refunded. support reference returns-medium-23.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-24.,returns,medium
+i want to return my purchase. support reference returns-medium-25.,returns,medium
+how can i exchange this item. support reference returns-medium-26.,returns,medium
+my returned item has not been refunded. support reference returns-medium-27.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-28.,returns,medium
+i want to return my purchase. support reference returns-medium-29.,returns,medium
+how can i exchange this item. support reference returns-medium-30.,returns,medium
+my returned item has not been refunded. support reference returns-medium-31.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-32.,returns,medium
+i want to return my purchase. support reference returns-medium-33.,returns,medium
+how can i exchange this item. support reference returns-medium-34.,returns,medium
+my returned item has not been refunded. support reference returns-medium-35.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-36.,returns,medium
+i want to return my purchase. support reference returns-medium-37.,returns,medium
+how can i exchange this item. support reference returns-medium-38.,returns,medium
+my returned item has not been refunded. support reference returns-medium-39.,returns,medium
+the product arrived damaged and needs returning. support reference returns-medium-40.,returns,medium
+i want to return my purchase. support reference returns-high-1.,returns,high
+how can i exchange this item. support reference returns-high-2.,returns,high
+my returned item has not been refunded. support reference returns-high-3.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-4.,returns,high
+i want to return my purchase. support reference returns-high-5.,returns,high
+how can i exchange this item. support reference returns-high-6.,returns,high
+my returned item has not been refunded. support reference returns-high-7.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-8.,returns,high
+i want to return my purchase. support reference returns-high-9.,returns,high
+how can i exchange this item. support reference returns-high-10.,returns,high
+my returned item has not been refunded. support reference returns-high-11.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-12.,returns,high
+i want to return my purchase. support reference returns-high-13.,returns,high
+how can i exchange this item. support reference returns-high-14.,returns,high
+my returned item has not been refunded. support reference returns-high-15.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-16.,returns,high
+i want to return my purchase. support reference returns-high-17.,returns,high
+how can i exchange this item. support reference returns-high-18.,returns,high
+my returned item has not been refunded. support reference returns-high-19.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-20.,returns,high
+i want to return my purchase. support reference returns-high-21.,returns,high
+how can i exchange this item. support reference returns-high-22.,returns,high
+my returned item has not been refunded. support reference returns-high-23.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-24.,returns,high
+i want to return my purchase. support reference returns-high-25.,returns,high
+how can i exchange this item. support reference returns-high-26.,returns,high
+my returned item has not been refunded. support reference returns-high-27.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-28.,returns,high
+i want to return my purchase. support reference returns-high-29.,returns,high
+how can i exchange this item. support reference returns-high-30.,returns,high
+my returned item has not been refunded. support reference returns-high-31.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-32.,returns,high
+i want to return my purchase. support reference returns-high-33.,returns,high
+how can i exchange this item. support reference returns-high-34.,returns,high
+my returned item has not been refunded. support reference returns-high-35.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-36.,returns,high
+i want to return my purchase. support reference returns-high-37.,returns,high
+how can i exchange this item. support reference returns-high-38.,returns,high
+my returned item has not been refunded. support reference returns-high-39.,returns,high
+the product arrived damaged and needs returning. support reference returns-high-40.,returns,high

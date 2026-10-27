@@ -1,0 +1,5 @@
+task,features,accuracy,macro_f1,confusion_matrix,error_file
+category,word,1.0,1.0,category_word_confusion_matrix.png,category_word_errors.csv
+category,word_char,1.0,1.0,category_word_char_confusion_matrix.png,category_word_char_errors.csv
+priority,word,1.0,1.0,priority_word_confusion_matrix.png,priority_word_errors.csv
+priority,word_char,1.0,1.0,priority_word_char_confusion_matrix.png,priority_word_char_errors.csv

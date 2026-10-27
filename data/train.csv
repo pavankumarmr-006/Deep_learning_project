@@ -1,0 +1,421 @@
+text,category,priority
+i cannot log in to my account. support reference account-low-5.,account,low
+i need a refund for my payment. support reference billing-high-7.,billing,high
+i was charged twice for my order. support reference billing-low-37.,billing,low
+my payment failed during checkout. support reference billing-high-8.,billing,high
+my order is delayed. support reference delivery-high-2.,delivery,high
+i need a refund for my payment. support reference billing-high-31.,billing,high
+the product arrived damaged and needs returning. support reference returns-high-8.,returns,high
+the product arrived damaged and needs returning. support reference returns-medium-4.,returns,medium
+the product arrived damaged and needs returning. support reference returns-high-20.,returns,high
+i cannot log in to my account. support reference account-high-9.,account,high
+the tracking page is not updating. support reference delivery-low-11.,delivery,low
+the product arrived damaged and needs returning. support reference returns-medium-8.,returns,medium
+my account has been locked. support reference account-medium-32.,account,medium
+i need a refund for my payment. support reference billing-high-15.,billing,high
+my order is delayed. support reference delivery-medium-22.,delivery,medium
+the website is loading very slowly. support reference technical-high-26.,technical,high
+i received the wrong item. support reference delivery-medium-32.,delivery,medium
+i want to update my account details. support reference account-high-31.,account,high
+i was charged twice for my order. support reference billing-low-17.,billing,low
+i cannot log in to my account. support reference account-medium-37.,account,medium
+my payment failed during checkout. support reference billing-medium-16.,billing,medium
+my returned item has not been refunded. support reference returns-high-15.,returns,high
+i want to return my purchase. support reference returns-medium-9.,returns,medium
+my invoice amount is incorrect. support reference billing-medium-34.,billing,medium
+i get an error when using the app. support reference technical-low-39.,technical,low
+i want to return my purchase. support reference returns-medium-21.,returns,medium
+i was charged twice for my order. support reference billing-low-29.,billing,low
+my payment failed during checkout. support reference billing-medium-20.,billing,medium
+the website is loading very slowly. support reference technical-medium-6.,technical,medium
+my payment failed during checkout. support reference billing-low-12.,billing,low
+the latest update broke a feature. support reference technical-medium-8.,technical,medium
+the website is loading very slowly. support reference technical-medium-26.,technical,medium
+i cannot log in to my account. support reference account-high-17.,account,high
+my returned item has not been refunded. support reference returns-medium-19.,returns,medium
+the latest update broke a feature. support reference technical-medium-24.,technical,medium
+please help me reset my password. support reference account-medium-6.,account,medium
+how can i exchange this item. support reference returns-high-6.,returns,high
+my package has not arrived. support reference delivery-high-17.,delivery,high
+my payment failed during checkout. support reference billing-low-16.,billing,low
+the application crashes when i open it. support reference technical-high-9.,technical,high
+my invoice amount is incorrect. support reference billing-low-2.,billing,low
+my payment failed during checkout. support reference billing-low-8.,billing,low
+please help me reset my password. support reference account-high-26.,account,high
+my account has been locked. support reference account-low-16.,account,low
+the tracking page is not updating. support reference delivery-low-15.,delivery,low
+i was charged twice for my order. support reference billing-low-33.,billing,low
+the latest update broke a feature. support reference technical-low-24.,technical,low
+my invoice amount is incorrect. support reference billing-medium-26.,billing,medium
+the website is loading very slowly. support reference technical-low-14.,technical,low
+my order is delayed. support reference delivery-high-6.,delivery,high
+i cannot log in to my account. support reference account-low-17.,account,low
+i was charged twice for my order. support reference billing-low-9.,billing,low
+how can i exchange this item. support reference returns-high-18.,returns,high
+i get an error when using the app. support reference technical-low-15.,technical,low
+the website is loading very slowly. support reference technical-low-18.,technical,low
+my account has been locked. support reference account-medium-20.,account,medium
+i want to return my purchase. support reference returns-high-29.,returns,high
+the tracking page is not updating. support reference delivery-medium-39.,delivery,medium
+i get an error when using the app. support reference technical-low-31.,technical,low
+my order is delayed. support reference delivery-high-30.,delivery,high
+i was charged twice for my order. support reference billing-low-5.,billing,low
+the application crashes when i open it. support reference technical-low-17.,technical,low
+i received the wrong item. support reference delivery-low-40.,delivery,low
+my payment failed during checkout. support reference billing-high-16.,billing,high
+my order is delayed. support reference delivery-high-10.,delivery,high
+how can i exchange this item. support reference returns-high-30.,returns,high
+i need a refund for my payment. support reference billing-low-19.,billing,low
+the product arrived damaged and needs returning. support reference returns-low-24.,returns,low
+my package has not arrived. support reference delivery-high-37.,delivery,high
+how can i exchange this item. support reference returns-low-18.,returns,low
+the product arrived damaged and needs returning. support reference returns-high-40.,returns,high
+my package has not arrived. support reference delivery-medium-17.,delivery,medium
+i received the wrong item. support reference delivery-high-8.,delivery,high
+the tracking page is not updating. support reference delivery-medium-7.,delivery,medium
+i was charged twice for my order. support reference billing-medium-9.,billing,medium
+i received the wrong item. support reference delivery-high-12.,delivery,high
+i want to update my account details. support reference account-low-27.,account,low
+my returned item has not been refunded. support reference returns-medium-15.,returns,medium
+the latest update broke a feature. support reference technical-medium-20.,technical,medium
+i want to update my account details. support reference account-low-7.,account,low
+please help me reset my password. support reference account-high-30.,account,high
+i was charged twice for my order. support reference billing-high-17.,billing,high
+my account has been locked. support reference account-medium-4.,account,medium
+my package has not arrived. support reference delivery-medium-25.,delivery,medium
+i want to update my account details. support reference account-high-27.,account,high
+my payment failed during checkout. support reference billing-high-28.,billing,high
+my package has not arrived. support reference delivery-high-9.,delivery,high
+i get an error when using the app. support reference technical-low-3.,technical,low
+i want to return my purchase. support reference returns-low-17.,returns,low
+my package has not arrived. support reference delivery-low-21.,delivery,low
+i cannot log in to my account. support reference account-low-33.,account,low
+my order is delayed. support reference delivery-high-14.,delivery,high
+my package has not arrived. support reference delivery-low-13.,delivery,low
+i need a refund for my payment. support reference billing-low-27.,billing,low
+please help me reset my password. support reference account-medium-38.,account,medium
+please help me reset my password. support reference account-medium-2.,account,medium
+my returned item has not been refunded. support reference returns-high-19.,returns,high
+i received the wrong item. support reference delivery-medium-36.,delivery,medium
+the product arrived damaged and needs returning. support reference returns-medium-36.,returns,medium
+how can i exchange this item. support reference returns-medium-10.,returns,medium
+please help me reset my password. support reference account-low-6.,account,low
+i want to return my purchase. support reference returns-high-1.,returns,high
+please help me reset my password. support reference account-low-10.,account,low
+my order is delayed. support reference delivery-low-6.,delivery,low
+my order is delayed. support reference delivery-high-22.,delivery,high
+i want to return my purchase. support reference returns-high-33.,returns,high
+my invoice amount is incorrect. support reference billing-high-38.,billing,high
+i want to return my purchase. support reference returns-high-37.,returns,high
+the latest update broke a feature. support reference technical-low-8.,technical,low
+my returned item has not been refunded. support reference returns-low-35.,returns,low
+i want to update my account details. support reference account-medium-31.,account,medium
+i want to return my purchase. support reference returns-low-5.,returns,low
+i cannot log in to my account. support reference account-medium-33.,account,medium
+my package has not arrived. support reference delivery-low-33.,delivery,low
+my order is delayed. support reference delivery-low-26.,delivery,low
+please help me reset my password. support reference account-high-14.,account,high
+i need a refund for my payment. support reference billing-low-35.,billing,low
+my order is delayed. support reference delivery-medium-6.,delivery,medium
+i get an error when using the app. support reference technical-high-27.,technical,high
+my package has not arrived. support reference delivery-high-13.,delivery,high
+my payment failed during checkout. support reference billing-high-36.,billing,high
+my order is delayed. support reference delivery-medium-14.,delivery,medium
+i get an error when using the app. support reference technical-high-35.,technical,high
+i want to update my account details. support reference account-medium-19.,account,medium
+how can i exchange this item. support reference returns-low-14.,returns,low
+my returned item has not been refunded. support reference returns-low-23.,returns,low
+i received the wrong item. support reference delivery-low-28.,delivery,low
+my payment failed during checkout. support reference billing-high-4.,billing,high
+the product arrived damaged and needs returning. support reference returns-medium-28.,returns,medium
+i want to update my account details. support reference account-high-35.,account,high
+the website is loading very slowly. support reference technical-high-18.,technical,high
+the product arrived damaged and needs returning. support reference returns-low-4.,returns,low
+i cannot log in to my account. support reference account-high-25.,account,high
+my payment failed during checkout. support reference billing-medium-32.,billing,medium
+my order is delayed. support reference delivery-low-10.,delivery,low
+my account has been locked. support reference account-high-16.,account,high
+the application crashes when i open it. support reference technical-medium-21.,technical,medium
+i received the wrong item. support reference delivery-low-12.,delivery,low
+how can i exchange this item. support reference returns-low-34.,returns,low
+i received the wrong item. support reference delivery-low-24.,delivery,low
+i was charged twice for my order. support reference billing-high-9.,billing,high
+i need a refund for my payment. support reference billing-low-23.,billing,low
+the application crashes when i open it. support reference technical-medium-33.,technical,medium
+how can i exchange this item. support reference returns-medium-38.,returns,medium
+the website is loading very slowly. support reference technical-high-30.,technical,high
+my invoice amount is incorrect. support reference billing-medium-38.,billing,medium
+my invoice amount is incorrect. support reference billing-low-22.,billing,low
+my payment failed during checkout. support reference billing-medium-4.,billing,medium
+how can i exchange this item. support reference returns-low-2.,returns,low
+i need a refund for my payment. support reference billing-low-15.,billing,low
+my returned item has not been refunded. support reference returns-low-7.,returns,low
+the application crashes when i open it. support reference technical-medium-5.,technical,medium
+please help me reset my password. support reference account-low-34.,account,low
+how can i exchange this item. support reference returns-medium-14.,returns,medium
+the product arrived damaged and needs returning. support reference returns-low-16.,returns,low
+my order is delayed. support reference delivery-high-34.,delivery,high
+i cannot log in to my account. support reference account-low-37.,account,low
+i want to return my purchase. support reference returns-low-1.,returns,low
+i need a refund for my payment. support reference billing-high-39.,billing,high
+i was charged twice for my order. support reference billing-high-21.,billing,high
+i want to update my account details. support reference account-low-15.,account,low
+my payment failed during checkout. support reference billing-low-24.,billing,low
+how can i exchange this item. support reference returns-medium-6.,returns,medium
+i want to update my account details. support reference account-high-3.,account,high
+i want to update my account details. support reference account-medium-11.,account,medium
+the website is loading very slowly. support reference technical-low-6.,technical,low
+please help me reset my password. support reference account-low-30.,account,low
+the product arrived damaged and needs returning. support reference returns-high-36.,returns,high
+the website is loading very slowly. support reference technical-high-38.,technical,high
+how can i exchange this item. support reference returns-medium-2.,returns,medium
+i get an error when using the app. support reference technical-high-7.,technical,high
+the latest update broke a feature. support reference technical-high-28.,technical,high
+the tracking page is not updating. support reference delivery-low-3.,delivery,low
+the application crashes when i open it. support reference technical-low-9.,technical,low
+the latest update broke a feature. support reference technical-low-40.,technical,low
+the latest update broke a feature. support reference technical-high-36.,technical,high
+my account has been locked. support reference account-high-12.,account,high
+i want to return my purchase. support reference returns-medium-17.,returns,medium
+the latest update broke a feature. support reference technical-medium-4.,technical,medium
+my invoice amount is incorrect. support reference billing-high-6.,billing,high
+i want to return my purchase. support reference returns-low-13.,returns,low
+please help me reset my password. support reference account-high-6.,account,high
+the website is loading very slowly. support reference technical-high-14.,technical,high
+the latest update broke a feature. support reference technical-medium-16.,technical,medium
+i want to return my purchase. support reference returns-medium-33.,returns,medium
+my account has been locked. support reference account-medium-36.,account,medium
+the product arrived damaged and needs returning. support reference returns-medium-24.,returns,medium
+i get an error when using the app. support reference technical-low-35.,technical,low
+my payment failed during checkout. support reference billing-high-32.,billing,high
+my invoice amount is incorrect. support reference billing-medium-22.,billing,medium
+i need a refund for my payment. support reference billing-high-11.,billing,high
+please help me reset my password. support reference account-high-22.,account,high
+my package has not arrived. support reference delivery-low-1.,delivery,low
+the tracking page is not updating. support reference delivery-high-23.,delivery,high
+i need a refund for my payment. support reference billing-high-19.,billing,high
+my package has not arrived. support reference delivery-low-9.,delivery,low
+my returned item has not been refunded. support reference returns-medium-39.,returns,medium
+the website is loading very slowly. support reference technical-medium-18.,technical,medium
+the product arrived damaged and needs returning. support reference returns-high-28.,returns,high
+how can i exchange this item. support reference returns-high-38.,returns,high
+the application crashes when i open it. support reference technical-high-21.,technical,high
+my package has not arrived. support reference delivery-high-29.,delivery,high
+the product arrived damaged and needs returning. support reference returns-high-12.,returns,high
+i was charged twice for my order. support reference billing-high-33.,billing,high
+i was charged twice for my order. support reference billing-low-21.,billing,low
+i get an error when using the app. support reference technical-high-11.,technical,high
+please help me reset my password. support reference account-low-22.,account,low
+the latest update broke a feature. support reference technical-low-12.,technical,low
+my returned item has not been refunded. support reference returns-medium-35.,returns,medium
+i get an error when using the app. support reference technical-medium-39.,technical,medium
+the product arrived damaged and needs returning. support reference returns-low-32.,returns,low
+i want to return my purchase. support reference returns-low-9.,returns,low
+i want to return my purchase. support reference returns-high-13.,returns,high
+i want to update my account details. support reference account-medium-35.,account,medium
+i cannot log in to my account. support reference account-medium-29.,account,medium
+please help me reset my password. support reference account-high-18.,account,high
+the website is loading very slowly. support reference technical-medium-34.,technical,medium
+i want to return my purchase. support reference returns-high-9.,returns,high
+my package has not arrived. support reference delivery-high-5.,delivery,high
+my invoice amount is incorrect. support reference billing-low-34.,billing,low
+i get an error when using the app. support reference technical-medium-27.,technical,medium
+the application crashes when i open it. support reference technical-medium-29.,technical,medium
+my returned item has not been refunded. support reference returns-low-19.,returns,low
+my account has been locked. support reference account-medium-40.,account,medium
+my returned item has not been refunded. support reference returns-high-7.,returns,high
+my invoice amount is incorrect. support reference billing-high-10.,billing,high
+my package has not arrived. support reference delivery-medium-1.,delivery,medium
+i received the wrong item. support reference delivery-medium-24.,delivery,medium
+the tracking page is not updating. support reference delivery-low-31.,delivery,low
+my order is delayed. support reference delivery-medium-18.,delivery,medium
+my package has not arrived. support reference delivery-medium-37.,delivery,medium
+i cannot log in to my account. support reference account-low-29.,account,low
+my order is delayed. support reference delivery-medium-26.,delivery,medium
+the application crashes when i open it. support reference technical-low-13.,technical,low
+i received the wrong item. support reference delivery-medium-12.,delivery,medium
+the website is loading very slowly. support reference technical-low-30.,technical,low
+i cannot log in to my account. support reference account-medium-1.,account,medium
+i cannot log in to my account. support reference account-low-1.,account,low
+the website is loading very slowly. support reference technical-low-2.,technical,low
+my returned item has not been refunded. support reference returns-low-27.,returns,low
+i want to update my account details. support reference account-low-35.,account,low
+i cannot log in to my account. support reference account-low-13.,account,low
+i received the wrong item. support reference delivery-medium-20.,delivery,medium
+the website is loading very slowly. support reference technical-medium-30.,technical,medium
+my payment failed during checkout. support reference billing-medium-12.,billing,medium
+i was charged twice for my order. support reference billing-high-29.,billing,high
+my package has not arrived. support reference delivery-high-21.,delivery,high
+my account has been locked. support reference account-medium-12.,account,medium
+i cannot log in to my account. support reference account-medium-5.,account,medium
+my invoice amount is incorrect. support reference billing-medium-14.,billing,medium
+my returned item has not been refunded. support reference returns-high-11.,returns,high
+the application crashes when i open it. support reference technical-high-25.,technical,high
+the tracking page is not updating. support reference delivery-low-19.,delivery,low
+i need a refund for my payment. support reference billing-medium-15.,billing,medium
+i get an error when using the app. support reference technical-high-39.,technical,high
+i want to return my purchase. support reference returns-high-21.,returns,high
+my payment failed during checkout. support reference billing-high-40.,billing,high
+i get an error when using the app. support reference technical-high-15.,technical,high
+i received the wrong item. support reference delivery-low-16.,delivery,low
+the tracking page is not updating. support reference delivery-medium-31.,delivery,medium
+the latest update broke a feature. support reference technical-high-40.,technical,high
+how can i exchange this item. support reference returns-low-26.,returns,low
+my invoice amount is incorrect. support reference billing-low-18.,billing,low
+i need a refund for my payment. support reference billing-medium-11.,billing,medium
+the tracking page is not updating. support reference delivery-medium-3.,delivery,medium
+my invoice amount is incorrect. support reference billing-medium-30.,billing,medium
+i get an error when using the app. support reference technical-low-23.,technical,low
+i want to update my account details. support reference account-medium-3.,account,medium
+my invoice amount is incorrect. support reference billing-high-18.,billing,high
+i want to update my account details. support reference account-low-19.,account,low
+my returned item has not been refunded. support reference returns-high-35.,returns,high
+my package has not arrived. support reference delivery-low-17.,delivery,low
+the latest update broke a feature. support reference technical-high-12.,technical,high
+i want to update my account details. support reference account-low-3.,account,low
+i get an error when using the app. support reference technical-medium-11.,technical,medium
+i want to update my account details. support reference account-medium-7.,account,medium
+i was charged twice for my order. support reference billing-high-25.,billing,high
+my returned item has not been refunded. support reference returns-medium-7.,returns,medium
+i cannot log in to my account. support reference account-medium-13.,account,medium
+the latest update broke a feature. support reference technical-low-16.,technical,low
+the application crashes when i open it. support reference technical-medium-17.,technical,medium
+my account has been locked. support reference account-low-8.,account,low
+please help me reset my password. support reference account-high-2.,account,high
+the website is loading very slowly. support reference technical-high-34.,technical,high
+my payment failed during checkout. support reference billing-low-32.,billing,low
+how can i exchange this item. support reference returns-medium-30.,returns,medium
+i cannot log in to my account. support reference account-high-13.,account,high
+my invoice amount is incorrect. support reference billing-high-30.,billing,high
+i was charged twice for my order. support reference billing-high-13.,billing,high
+my payment failed during checkout. support reference billing-high-20.,billing,high
+how can i exchange this item. support reference returns-low-10.,returns,low
+i get an error when using the app. support reference technical-medium-31.,technical,medium
+the website is loading very slowly. support reference technical-medium-2.,technical,medium
+i cannot log in to my account. support reference account-medium-17.,account,medium
+i want to return my purchase. support reference returns-low-29.,returns,low
+the product arrived damaged and needs returning. support reference returns-high-4.,returns,high
+the tracking page is not updating. support reference delivery-high-27.,delivery,high
+my package has not arrived. support reference delivery-medium-13.,delivery,medium
+how can i exchange this item. support reference returns-medium-26.,returns,medium
+i was charged twice for my order. support reference billing-medium-13.,billing,medium
+please help me reset my password. support reference account-medium-22.,account,medium
+my returned item has not been refunded. support reference returns-low-31.,returns,low
+my payment failed during checkout. support reference billing-low-4.,billing,low
+the website is loading very slowly. support reference technical-medium-10.,technical,medium
+i received the wrong item. support reference delivery-medium-4.,delivery,medium
+i get an error when using the app. support reference technical-low-19.,technical,low
+my returned item has not been refunded. support reference returns-low-39.,returns,low
+i want to update my account details. support reference account-high-7.,account,high
+i get an error when using the app. support reference technical-high-3.,technical,high
+my package has not arrived. support reference delivery-low-37.,delivery,low
+i want to return my purchase. support reference returns-high-25.,returns,high
+i cannot log in to my account. support reference account-medium-9.,account,medium
+i get an error when using the app. support reference technical-medium-15.,technical,medium
+i want to update my account details. support reference account-low-11.,account,low
+my account has been locked. support reference account-low-36.,account,low
+i received the wrong item. support reference delivery-medium-8.,delivery,medium
+my returned item has not been refunded. support reference returns-medium-27.,returns,medium
+the tracking page is not updating. support reference delivery-low-27.,delivery,low
+my package has not arrived. support reference delivery-low-5.,delivery,low
+the latest update broke a feature. support reference technical-medium-32.,technical,medium
+i received the wrong item. support reference delivery-high-16.,delivery,high
+my order is delayed. support reference delivery-medium-10.,delivery,medium
+my account has been locked. support reference account-low-24.,account,low
+i get an error when using the app. support reference technical-low-27.,technical,low
+i cannot log in to my account. support reference account-high-37.,account,high
+my order is delayed. support reference delivery-high-26.,delivery,high
+the product arrived damaged and needs returning. support reference returns-medium-20.,returns,medium
+my order is delayed. support reference delivery-high-38.,delivery,high
+the latest update broke a feature. support reference technical-medium-40.,technical,medium
+my invoice amount is incorrect. support reference billing-high-2.,billing,high
+the website is loading very slowly. support reference technical-high-22.,technical,high
+the website is loading very slowly. support reference technical-medium-38.,technical,medium
+my account has been locked. support reference account-high-28.,account,high
+i need a refund for my payment. support reference billing-medium-27.,billing,medium
+my returned item has not been refunded. support reference returns-high-39.,returns,high
+my order is delayed. support reference delivery-low-22.,delivery,low
+i want to return my purchase. support reference returns-medium-37.,returns,medium
+please help me reset my password. support reference account-high-10.,account,high
+my invoice amount is incorrect. support reference billing-medium-10.,billing,medium
+how can i exchange this item. support reference returns-high-14.,returns,high
+my account has been locked. support reference account-low-12.,account,low
+the website is loading very slowly. support reference technical-low-22.,technical,low
+my invoice amount is incorrect. support reference billing-medium-18.,billing,medium
+my account has been locked. support reference account-high-32.,account,high
+the product arrived damaged and needs returning. support reference returns-low-36.,returns,low
+the tracking page is not updating. support reference delivery-medium-15.,delivery,medium
+please help me reset my password. support reference account-low-38.,account,low
+please help me reset my password. support reference account-high-34.,account,high
+my payment failed during checkout. support reference billing-medium-8.,billing,medium
+my order is delayed. support reference delivery-medium-2.,delivery,medium
+i was charged twice for my order. support reference billing-medium-33.,billing,medium
+the tracking page is not updating. support reference delivery-medium-23.,delivery,medium
+the application crashes when i open it. support reference technical-low-5.,technical,low
+my order is delayed. support reference delivery-low-30.,delivery,low
+the tracking page is not updating. support reference delivery-low-7.,delivery,low
+i want to update my account details. support reference account-medium-27.,account,medium
+i need a refund for my payment. support reference billing-medium-39.,billing,medium
+the product arrived damaged and needs returning. support reference returns-low-20.,returns,low
+the latest update broke a feature. support reference technical-low-28.,technical,low
+the latest update broke a feature. support reference technical-high-20.,technical,high
+i was charged twice for my order. support reference billing-medium-25.,billing,medium
+the latest update broke a feature. support reference technical-low-32.,technical,low
+i want to update my account details. support reference account-low-31.,account,low
+the application crashes when i open it. support reference technical-low-1.,technical,low
+i need a refund for my payment. support reference billing-low-3.,billing,low
+my invoice amount is incorrect. support reference billing-low-14.,billing,low
+my returned item has not been refunded. support reference returns-medium-11.,returns,medium
+i received the wrong item. support reference delivery-high-24.,delivery,high
+the tracking page is not updating. support reference delivery-high-39.,delivery,high
+the latest update broke a feature. support reference technical-high-8.,technical,high
+my account has been locked. support reference account-high-20.,account,high
+the application crashes when i open it. support reference technical-high-37.,technical,high
+i want to return my purchase. support reference returns-medium-13.,returns,medium
+my payment failed during checkout. support reference billing-medium-24.,billing,medium
+please help me reset my password. support reference account-medium-10.,account,medium
+the application crashes when i open it. support reference technical-low-37.,technical,low
+i received the wrong item. support reference delivery-low-4.,delivery,low
+my package has not arrived. support reference delivery-medium-9.,delivery,medium
+i get an error when using the app. support reference technical-medium-3.,technical,medium
+i received the wrong item. support reference delivery-high-40.,delivery,high
+my invoice amount is incorrect. support reference billing-low-10.,billing,low
+my account has been locked. support reference account-low-32.,account,low
+i cannot log in to my account. support reference account-high-1.,account,high
+the application crashes when i open it. support reference technical-high-29.,technical,high
+my order is delayed. support reference delivery-low-34.,delivery,low
+my payment failed during checkout. support reference billing-high-12.,billing,high
+i was charged twice for my order. support reference billing-medium-21.,billing,medium
+i received the wrong item. support reference delivery-high-36.,delivery,high
+the application crashes when i open it. support reference technical-high-17.,technical,high
+the product arrived damaged and needs returning. support reference returns-high-16.,returns,high
+the tracking page is not updating. support reference delivery-medium-19.,delivery,medium
+please help me reset my password. support reference account-medium-34.,account,medium
+i want to return my purchase. support reference returns-low-37.,returns,low
+my payment failed during checkout. support reference billing-low-40.,billing,low
+my returned item has not been refunded. support reference returns-low-3.,returns,low
+the tracking page is not updating. support reference delivery-low-23.,delivery,low
+my returned item has not been refunded. support reference returns-medium-31.,returns,medium
+i need a refund for my payment. support reference billing-medium-7.,billing,medium
+the application crashes when i open it. support reference technical-high-13.,technical,high
+how can i exchange this item. support reference returns-medium-18.,returns,medium
+the latest update broke a feature. support reference technical-low-20.,technical,low
+i was charged twice for my order. support reference billing-low-13.,billing,low
+the website is loading very slowly. support reference technical-high-6.,technical,high
+my invoice amount is incorrect. support reference billing-medium-6.,billing,medium
+i want to update my account details. support reference account-low-23.,account,low
+i cannot log in to my account. support reference account-high-5.,account,high
+the tracking page is not updating. support reference delivery-high-3.,delivery,high
+my invoice amount is incorrect. support reference billing-low-26.,billing,low
+my returned item has not been refunded. support reference returns-low-11.,returns,low
+the application crashes when i open it. support reference technical-medium-1.,technical,medium
+the tracking page is not updating. support reference delivery-high-15.,delivery,high
+i need a refund for my payment. support reference billing-medium-35.,billing,medium
+i was charged twice for my order. support reference billing-medium-29.,billing,medium
+i received the wrong item. support reference delivery-high-4.,delivery,high
+please help me reset my password. support reference account-high-38.,account,high
+the tracking page is not updating. support reference delivery-medium-11.,delivery,medium
+i want to return my purchase. support reference returns-high-5.,returns,high
+i get an error when using the app. support reference technical-medium-23.,technical,medium
+i want to update my account details. support reference account-medium-39.,account,medium
+my account has been locked. support reference account-high-40.,account,high

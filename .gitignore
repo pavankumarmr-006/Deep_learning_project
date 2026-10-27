@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Trained models and checkpoints
+models/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Python caches
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/

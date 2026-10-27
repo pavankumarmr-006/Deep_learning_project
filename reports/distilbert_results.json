@@ -1,0 +1,18 @@
+{
+  "category": {
+    "validation_accuracy": 1.0,
+    "validation_macro_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_macro_f1": 1.0,
+    "training_seconds": 137.876077900175,
+    "inference_ms_per_ticket": 44.53628799878061
+  },
+  "priority": {
+    "validation_accuracy": 1.0,
+    "validation_macro_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_macro_f1": 1.0,
+    "training_seconds": 131.3273197999224,
+    "inference_ms_per_ticket": 46.30488000344485
+  }
+}

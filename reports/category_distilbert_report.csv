@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support
+account,1.0,1.0,1.0,18.0
+billing,1.0,1.0,1.0,18.0
+delivery,1.0,1.0,1.0,18.0
+returns,1.0,1.0,1.0,18.0
+technical,1.0,1.0,1.0,18.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,90.0
+weighted avg,1.0,1.0,1.0,90.0
